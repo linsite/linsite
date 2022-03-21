@@ -1,6 +1,7 @@
 ## About Me
 
 Working on k8s, Golang. 
-I'm also learning Rust. 
+I'm also learning Rust, Python. 
+A fun of Scheme.
 
 gitee: https://gitee.com/linmaolin
